@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\obj\Debug\net7.0\FactoryPatterns.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\obj\Debug\net7.0\FactoryPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\obj\Debug\net7.0\FactoryPatterns.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\obj\Debug\net7.0\FactoryPatterns.AssemblyInfo.cs
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\obj\Debug\net7.0\FactoryPatterns.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\bin\Debug\net7.0\FactoryPatterns.exe
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\bin\Debug\net7.0\FactoryPatterns.deps.json
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\bin\Debug\net7.0\FactoryPatterns.runtimeconfig.json
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\bin\Debug\net7.0\FactoryPatterns.dll
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\bin\Debug\net7.0\FactoryPatterns.pdb
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\obj\Debug\net7.0\FactoryPatterns.dll
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\obj\Debug\net7.0\refint\FactoryPatterns.dll
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\obj\Debug\net7.0\FactoryPatterns.pdb
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\obj\Debug\net7.0\FactoryPatterns.genruntimeconfig.cache
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\FactoryPatterns\obj\Debug\net7.0\ref\FactoryPatterns.dll
