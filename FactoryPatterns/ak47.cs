@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace FactoryPatterns
 {
-    internal class Bow : lWeapon
+    internal class ak47 : lWeapon
     {
 
 
         public void attack() {
 
-            Console.WriteLine("Atacando con Arco!");
+            Console.WriteLine("Disparando!");
 
         }
 
         public string typeWeapon()
         {
-            return "Arco";
+            return "ak47";
         }
     }
 }

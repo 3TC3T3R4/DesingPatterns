@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace FactoryPatterns
 {
-    public class Sword : lWeapon
+    public class bazuka : lWeapon
     {
 
         public void attack() {
 
-            Console.WriteLine("Atacando con Espada!! ");
+            Console.WriteLine("Lanzando bombas!! ");
         
         }
 
         public string typeWeapon()
         {
-            return "Espada";
+            return "bazuka";
         }
 
 

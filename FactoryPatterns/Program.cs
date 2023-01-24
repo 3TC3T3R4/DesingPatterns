@@ -5,7 +5,7 @@
 
         public static void Main(string[] args){
 
-            lWeapon choose1 = WeaponFactory.CreateWeapon("Espada");
+            lWeapon choose1 = EstadosUnidos.CreateWeapon("ak47");
 
             choose1.attack();
     

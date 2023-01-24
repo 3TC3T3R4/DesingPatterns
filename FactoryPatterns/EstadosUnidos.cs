@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FactoryPatterns
 {
-    internal class WeaponFactory
+    internal class EstadosUnidos
     {
 
 
@@ -14,14 +14,14 @@ namespace FactoryPatterns
             switch (typeWeapon)
             {
 
-                case "Arco":
-                    return new Bow();
+                case "ak47":
+                    return new ak47();
 
                     break;
 
 
-                case "Espada":
-                    return new Sword();
+                case "bazuka":
+                    return new bazuka();
 
                     break;
 
