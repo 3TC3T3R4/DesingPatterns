@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\bin\Debug\net7.0\StrategyPatterns.exe
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\bin\Debug\net7.0\StrategyPatterns.deps.json
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\bin\Debug\net7.0\StrategyPatterns.runtimeconfig.json
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\bin\Debug\net7.0\StrategyPatterns.dll
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\bin\Debug\net7.0\StrategyPatterns.pdb
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\obj\Debug\net7.0\StrategyPatterns.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\obj\Debug\net7.0\StrategyPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\obj\Debug\net7.0\StrategyPatterns.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\obj\Debug\net7.0\StrategyPatterns.AssemblyInfo.cs
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\obj\Debug\net7.0\StrategyPatterns.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\obj\Debug\net7.0\StrategyPatterns.dll
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\obj\Debug\net7.0\refint\StrategyPatterns.dll
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\obj\Debug\net7.0\StrategyPatterns.pdb
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\obj\Debug\net7.0\StrategyPatterns.genruntimeconfig.cache
+C:\Users\HOME\Desktop\TRAINIG\DesingPatterns\StrategyPatterns\obj\Debug\net7.0\ref\StrategyPatterns.dll
