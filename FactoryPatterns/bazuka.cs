@@ -20,7 +20,5 @@ namespace FactoryPatterns
             return "bazuka";
         }
 
-
-
     }
 }
