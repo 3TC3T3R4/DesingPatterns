@@ -5,7 +5,7 @@
 
         public static void Main(string[] args){
 
-            lWeapon choose1 = EstadosUnidos.CreateWeapon("ak47");
+            lWeapon choose1 = EstadosUnidos.CreateWeapon("bazuka");
 
             choose1.attack();
     
